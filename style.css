@@ -1,0 +1,18 @@
+
+ body{
+    background-color: blanchedalmond;
+
+
+ }
+  h2{
+    background-color: aquamarine;
+  }
+   h3{
+    background-color: azure;
+   }
+    li{
+        background-color: pink;
+        margin-left: 20px;
+        border-radius: 10px;
+    }
+    
